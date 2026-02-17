@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Gorka82/linkedin.jpg?raw=true](https://github.com/Gorka82/Gorka82/blob/main/Linkedin.jpg)" alt="Banner Gorka Pentester" width="100%"/>
+  <img src="https://github.com/Gorka82/Gorka82/blob/main/Linkedin.jpg" alt="Banner Gorka Pentester" width="100%"/>
 </p>
 
 <h1 align="center">🛡️ Gorka de las Heras</h1>
