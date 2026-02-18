@@ -13,18 +13,6 @@ Pentester especializado en seguridad ofensiva y auditorías técnicas. Apasionad
 
 ---
 
-### 🥇 Reconocimiento destacado
-
-<p align="center">
-  <img src="https://github.com/ccyl13/ccyl13/blob/main/ranking-favikon.jpeg?raw=true" alt="Ranking Gorka" width="90%"/>
-</p>
-
-<p align="center">
-  <strong>🏆 Especialista en Seguridad Ofensiva</strong><br>
-  Experiencia en <strong>pentesting, Red Team y análisis de vulnerabilidades</strong> 🔐🔥
-</p>
-
----
 
 
 ### ⚙️ Tecnologías y herramientas que uso
